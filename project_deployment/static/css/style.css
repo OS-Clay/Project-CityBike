@@ -1,3 +1,4 @@
+
 html,
 body,
 #map-id {
@@ -36,4 +37,22 @@ body,
 
 .legend .out-of-order {
   color: #007dff;
+}
+
+
+
+
+
+
+.line {
+  fill: none;
+  stroke-width: 2px;
+}
+
+.orange {
+  stroke: orange;
+}
+
+.green {
+  stroke: green;
 }
