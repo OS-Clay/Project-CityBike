@@ -1,4 +1,11 @@
 
+#statement {
+height: 100%;
+padding: 20px;
+margin-left: 20px;
+margin-right: 20px;
+}
+
 html,
 body,
 #map-id {
